@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MakeMoneyForSoftware</string>
+    <string-array name="salary_unit">
+        <item>日</item>
+        <item>时</item>
+        <item>月</item>
+    </string-array>
+
+    <string name="menu_action_all_down">All down</string>
+    <string name="menu_action_up_down">Up down</string>
+    <string name="menu_action_up_down_stack">Up down stack</string>
+</resources>
